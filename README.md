@@ -24,4 +24,6 @@ pipenv shell
 ```sh
 python3 manage.py runserver
 ```
-5.Yahoo you have your Own Hello World Django Application Up and Running.
+5. Navigate to [SERVER]/hello to See the Hello world
+
+6.Yahoo you have your Own Hello World Django Application Up and Running.
